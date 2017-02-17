@@ -1,4 +1,4 @@
-const rwDist = 'https://npmcdn.com/react-widgets@3.3.0/dist/';
+const rwDist = 'https://unpkg.com/react-widgets@3.3.0/dist/';
 
 export default {
   '.rw-btn, .rw-input': { color: 'inherit', font: 'inherit', margin: '0' },
